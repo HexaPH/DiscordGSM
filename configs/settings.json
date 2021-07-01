@@ -1,16 +1,16 @@
 {
     "token": "",
     "prefix": "!",
-    "role_id": 123, 
-    "image_url": "",
+    "role_id": 836784603268251688, 
+    "image_url": "https://media.discordapp.net/attachments/854160194585755698/859974610341986304/images_53.jpeg",
     "refreshrate": 15,
     "presence_type": 3,
     "presence_rate": 5,
     "fieldname": {
         "status": "Status",
-        "address": "Address",
-        "port": "Port",
-        "game": "Game",
+        "address": "gothamcityrp.ga",
+        "port": "7000",
+        "game": "SA-MP",
         "currentmap": "Current Map",
         "players": "Players",
         "country": "Location"
